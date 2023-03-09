@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server For Learning PWA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Server"
+  ],
+  "author": "Mathius",
+  "license": "ISC"
+}
